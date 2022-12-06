@@ -8,7 +8,7 @@
 I am Vaibhav Bhavsar. I am natively from Nashik, Maharashtra and currently working as a Software Developer at FinIQ Consulting 🏫.I did my Computer Engineering from K.K. Wagh Institute of Engineering Education and Research, Nashik. I love to do Web Development and always open to learn new technologies.
 
 ## 💻 Projects
-* [News App](iamvaibhavsar.github.io/News_App)
+* [News App](https://github.com/IamVaibhavsar/News_App)
 * [Travel Booking Dashboard](https://iamvaibhavsar.github.io/Travel_Booking_Dashboard)
 * [Bank Customer Churn Prediction](https://github.com/IamVaibhavsar/Bank_Customer_Churn_Prediction)
 * [Calibrated Load Generator](https://github.com/IamVaibhavsar/Calibrated_Load_Generator)
